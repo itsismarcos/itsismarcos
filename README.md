@@ -1,20 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Olá, eu sou Marcos Roberto (VandaTheGod)
 
-# Run and deploy your AI Studio app
+💻 **Entusiasta de Cibersegurança | Pentester | Estudante autodidata**
+🌐 Explorando falhas, aprendendo com erros e evoluindo no mundo digital
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1hAfbARndoLC4SwvpnR72GWYnj2n1k5nV
+## 🧠 Sobre mim
 
-## Run Locally
+Sou apaixonado por **segurança da informação**, **pentest**, **análise de vulnerabilidades** e **tecnologia em geral**. Tenho interesse prático em entender como sistemas funcionam — e como podem falhar — sempre com foco em **aprendizado, ética e evolução técnica**.
 
-**Prerequisites:**  Node.js
+Atualmente estudo e pratico:
 
+* Testes de invasão (Pentest)
+* Análise de CVEs
+* Segurança em aplicações web
+* Linux e Windows
+* Redes e protocolos
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🔐 Áreas de Interesse
+
+* 🕵️ Pentest Web
+* 🐧 Linux
+* 🌐 Redes
+* 🧪 Exploração de vulnerabilidades
+* 🛡️ Hardening e mitigação de falhas
+* 📚 Estudo de CVEs e exploits (PoC)
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+```bash
+Nmap | Dirsearch | Hydra | Burp Suite | Metasploit
+Linux | Windows | Bash | Python | PHP
+Git | GitHub | Apache | Nginx
+```
+
+---
+
+## 📂 Projetos
+
+* 🔍 Scripts de análise de segurança
+* 🧪 Estudos de CVEs (PoC educacional)
+* 📜 Automações em Python e Bash
+* 🌐 Testes em ambientes controlados
+
+> ⚠️ **Nota:** Todo conteúdo é voltado para fins **educacionais e éticos**.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsismarcos\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos\&layout=compact\&theme=dark)
+
+> 🔧 Substitua `SEU_USUARIO` pelo seu username do GitHub
+
+---
+
+---
+
+## 🧩 Filosofia
+
+> "Conhecimento não é crime. Crime é usar sem consciência."
+
+---
+
+⭐ Se algum projeto te ajudou, considere deixar uma **star**.
