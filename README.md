@@ -1,72 +1,51 @@
-# 👋 Olá, eu sou Marcos Roberto 
+👋 Olá, eu sou Marcos Roberto
 
-💻 **Entusiasta de Cibersegurança | Pentester | Estudante autodidata**
-🌐 Explorando falhas, aprendendo com erros e evoluindo no mundo digital
+💻 Entusiasta de Cibersegurança | Pentester | Estudante Autodidata
+🌐 Explorando falhas, aprendendo com erros e evoluindo constantemente no mundo digital.
 
----
+🧠 Sobre mim
 
-## 🧠 Sobre mim
-
-Sou apaixonado por **segurança da informação**, **pentest**, **análise de vulnerabilidades** e **tecnologia em geral**. Tenho interesse prático em entender como sistemas funcionam — e como podem falhar — sempre com foco em **aprendizado, ética e evolução técnica**.
+Sou apaixonado por segurança da informação, pentest, análise de vulnerabilidades e tecnologia em geral. Tenho um interesse prático em compreender como os sistemas funcionam — e como podem falhar — sempre com foco em aprendizado contínuo, ética e evolução técnica.
 
 Atualmente estudo e pratico:
 
-* Testes de invasão (Pentest)
-* Análise de CVEs
-* Segurança em aplicações web
-* Linux e Windows
-* Redes e protocolos
+Testes de invasão (Pentest)
 
----
+Análise de CVEs
 
-## 🔐 Áreas de Interesse
+Segurança em aplicações web
 
-* 🕵️ Pentest Web
-* 🐧 Linux
-* 🌐 Redes
-* 🧪 Exploração de vulnerabilidades
-* 🛡️ Hardening e mitigação de falhas
-* 📚 Estudo de CVEs e exploits (PoC)
+Sistemas Linux e Windows
 
----
+Redes e protocolos
 
-## 🛠️ Ferramentas & Tecnologias
+🔐 Áreas de Interesse
 
-```bash
+🕵️ Pentest Web
+
+🐧 Linux
+
+🌐 Redes
+
+🧪 Exploração de vulnerabilidades
+
+🛡️ Hardening e mitigação de falhas
+
+📚 Estudo de CVEs e exploits (PoC educacional)
+
+🛠️ Ferramentas & Tecnologias
 Nmap | Dirsearch | Hydra | Burp Suite | Metasploit
 Linux | Windows | Bash | Python | PHP
 Git | GitHub | Apache | Nginx
-```
 
----
+📂 Projetos
 
-## 📂 Projetos
+🔍 Scripts para análise de segurança
 
-* 🔍 Scripts de análise de segurança
-* 🧪 Estudos de CVEs (PoC educacional)
-* 📜 Automações em Python e Bash
-* 🌐 Testes em ambientes controlados
+🧪 Estudos de CVEs (PoC com fins educacionais)
 
-> ⚠️ **Nota:** Todo conteúdo é voltado para fins **educacionais e éticos**.
+📜 Automações em Python e Bash
 
----
+🌐 Testes realizados em ambientes controlados
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsismarcos\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos\&layout=compact\&theme=dark)
-
-> 🔧 Substitua `SEU_USUARIO` pelo seu username do GitHub
-
----
-
----
-
-## 🧩 Filosofia
-
-> "Conhecimento não é crime. Crime é usar sem consciência."
-
----
-
-⭐ Se algum projeto te ajudou, considere deixar uma **star**.
+⚠️ Nota: Todo o conteúdo é desenvolvido exclusivamente para fins educacionais e éticos.
