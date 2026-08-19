@@ -212,11 +212,21 @@ Sempre priorizando **ambientes autorizados e práticas responsáveis de seguran�
 
 ---
 
-# 📫 Contato
+# 🌐 Conecte-se comigo
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-itsismarcos-181717?style=for-the-badge\&logo=github)](https://github.com/itsismarcos)
+<a href="https://github.com/itsismarcos">
+<img src="https://img.shields.io/badge/GitHub-itsismarcos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/itsismarcos/">
+<img src="https://img.shields.io/badge/LinkedIn-Marcos%20Roberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/itsismr/">
+<img src="https://img.shields.io/badge/Instagram-@itsismr-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
