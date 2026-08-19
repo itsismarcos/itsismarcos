@@ -1,236 +1,231 @@
 # 👋 Olá, eu sou Marcos Roberto
 
-### 🛡️ Cybersecurity | Pentest | Vulnerability Research
+### 🛡️ Pentester | Cybersecurity Enthusiast | Security Researcher
 
-Sou apaixonado por **Cibersegurança, Pentest, análise de vulnerabilidades e segurança de aplicações**.
+Sou apaixonado por **Cibersegurança, Pentest e Segurança de Aplicações**.
+Meu objetivo é entender como sistemas podem ser comprometidos, identificar vulnerabilidades e desenvolver conhecimento para construir ambientes mais seguros.
 
-Meu objetivo é compreender profundamente como sistemas, aplicações, redes e serviços funcionam — identificando falhas, estudando vulnerabilidades e desenvolvendo ferramentas para automação e análise de segurança.
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                  CYBERSECURITY LAB                   │
-├──────────────────────────────────────────────────────┤
-│  🔎 Reconhecimento                                   │
-│  🧪 Vulnerability Assessment                         │
-│  🌐 Web Application Security                         │
-│  🐧 Linux & Networking                               │
-│  💻 Security Automation                              │
-│  📚 CVE / PoC Research                               │
-└──────────────────────────────────────────────────────┘
-```
+> **"Conhecimento em segurança começa entendendo como um ataque funciona."**
 
 ---
 
 ## 🧠 Sobre mim
 
-Atualmente estudo e pratico segurança ofensiva em **ambientes controlados e autorizados**, com foco em aprendizado contínuo e desenvolvimento de habilidades práticas.
-
-### Atualmente estudo:
-
-- 🔍 Testes de invasão
-- 🌐 Segurança de aplicações Web
-- 🧪 Análise de vulnerabilidades
-- 📚 CVEs e PoCs educacionais
-- 🐧 Linux
-- 🪟 Windows
-- 🌐 Redes e protocolos
-- 🤖 Automação de segurança
-- 🛡️ Hardening e mitigação
+* 🔐 Estudando **Penetration Testing**
+* 🌐 Focado em **Web Application Security**
+* 🐧 Utilizo ambientes Linux para estudos de segurança
+* 🔎 Interesse em **OSINT e Reconhecimento**
+* 🕵️ Estudos de **Red Team**
+* 💻 Desenvolvimento de ferramentas para automação de testes
+* 🧪 Construção de laboratórios para prática de segurança
+* 📚 Aprendizado contínuo em Cibersegurança
 
 ---
 
-# 🔐 Áreas de Interesse
-
-| Área | Foco |
-|---|---|
-| 🌐 Web Security | OWASP, APIs, autenticação e autorização |
-| 🔎 Reconhecimento | Enumeração e descoberta de superfície de ataque |
-| 🧪 Vulnerability Research | Análise e reprodução de vulnerabilidades |
-| 🐧 Linux | Administração, hardening e segurança |
-| 🌐 Networking | TCP/IP, DNS, HTTP, serviços e protocolos |
-| 🤖 Automation | Scripts para reconhecimento e análise |
-| 🛡️ Defensive Security | Hardening, mitigação e análise de riscos |
-
----
-
-# 🛠️ Security Toolkit
-
-### 🔎 Reconhecimento & Enumeração
-
-![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-111111?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=for-the-badge)
-
-### 🌐 Web Application Security
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-
-### 🧪 Exploração & Security Research
-
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=for-the-badge)
-
-### 💻 Sistemas
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-# 💻 Linguagens & Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 🧪 Metodologia de Pentest
-
-Meu processo de estudo e avaliação de segurança segue, de forma geral:
+# ⚔️ Áreas de Interesse
 
 ```text
-01 → Reconhecimento
-        ↓
-02 → Enumeração
-        ↓
-03 → Identificação de Tecnologias
-        ↓
-04 → Análise de Vulnerabilidades
-        ↓
-05 → Validação / PoC
-        ↓
-06 → Análise de Impacto
-        ↓
-07 → Relatório
-        ↓
-08 → Mitigação / Hardening
-```
+Web Pentest
+├── Reconhecimento
+├── Enumeration
+├── Vulnerability Assessment
+├── OWASP Top 10
+├── Authentication Testing
+├── Authorization Testing
+├── SQL Injection
+├── XSS
+├── IDOR
+├── SSRF
+├── File Upload
+└── Business Logic
 
-Sempre priorizando **ambientes autorizados, laboratórios e sistemas próprios**.
+Network Pentest
+├── Port Scanning
+├── Service Enumeration
+├── Network Discovery
+├── SMB
+├── SSH
+├── FTP
+├── DNS
+└── Privilege Escalation
+
+Security Research
+├── OSINT
+├── Automation
+├── Vulnerability Research
+├── Linux
+├── Bash
+├── Python
+└── Security Tooling
+```
 
 ---
 
-# 📂 Projetos
+# 🛠️ Ferramentas
 
-### 🔍 Security Scripts
+### 🔎 Reconhecimento
 
-Scripts desenvolvidos para auxiliar em:
+![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge\&logo=nmap\&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=for-the-badge)
+![Dirb](https://img.shields.io/badge/Dirb-111111?style=for-the-badge)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
-- Reconhecimento
-- Enumeração
-- Automação
-- Análise de serviços
-- Processamento de resultados
-- Segurança de aplicações
+### 🌐 Web Security
 
-### 🧪 CVE Research
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-111111?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 
-Estudos sobre vulnerabilidades públicas com foco em:
+### 🐧 Sistemas
 
-- Entendimento da vulnerabilidade
-- Análise técnica
-- Reprodução em laboratório
-- Desenvolvimento de PoCs educacionais
-- Mitigação
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00A98F?style=for-the-badge\&logo=linux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-### 🤖 Security Automation
+---
 
-Automação de tarefas repetitivas utilizando:
+# 💻 Desenvolvimento
 
-- Python
-- Bash
-- Linux
-- APIs
-- Ferramentas de segurança
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+---
+
+# 🚀 Projetos
+
+### 🔐 Security Tools
+
+Projetos voltados para automação de tarefas relacionadas à segurança, reconhecimento e análise de ambientes.
+
+### 🕵️ OSINT
+
+Ferramentas e estudos relacionados à coleta e análise de informações públicas.
 
 ### 🌐 Web Security Labs
 
-Laboratórios voltados para estudo de:
+Laboratórios para estudar vulnerabilidades de aplicações web e técnicas de exploração em ambientes autorizados.
 
-- OWASP Top 10
-- Authentication
-- Authorization
-- Input Validation
-- Security Misconfiguration
-- API Security
+### 🐧 Linux Security
+
+Configuração e utilização de ambientes Linux voltados para testes de segurança.
+
+### 🤖 Security Automation
+
+Scripts desenvolvidos para automatizar tarefas repetitivas durante processos de reconhecimento e análise.
 
 ---
 
-# 🐧 Meu Ambiente
+# 🧪 Laboratório de Pentest
+
+Meu ambiente de estudos envolve ferramentas e tecnologias como:
 
 ```bash
-OS        → Linux / Windows
-Shell     → Bash
-Language  → Python / Bash / PHP
-Security  → Nmap / Burp Suite / Metasploit
-Version   → Git / GitHub
-Focus     → Cybersecurity / Pentest
+Nmap
+Burp Suite
+SQLMap
+Gobuster
+WPScan
+Dirb
+OWASP
+Linux
+Python
+Bash
+Git
+Docker
 ```
+
+O objetivo é utilizar esses recursos em **ambientes próprios, CTFs e sistemas onde exista autorização para testes**.
 
 ---
 
 # 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsismarcos&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsismarcos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itsismarcos\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# 🧩 Minha abordagem
+
+```text
+Recon
+  ↓
+Enumeration
+  ↓
+Attack Surface Mapping
+  ↓
+Vulnerability Discovery
+  ↓
+Validation
+  ↓
+Exploitation
+  ↓
+Privilege Escalation
+  ↓
+Post-Exploitation
+  ↓
+Reporting
+  ↓
+Remediation
+```
+
+Sempre priorizando **ambientes autorizados e práticas responsáveis de segurança**.
 
 ---
 
 # 🎯 Objetivos
 
-```text
-[+] Evoluir em Pentest
-[+] Aprimorar Web Security
-[+] Estudar Vulnerability Research
-[+] Desenvolver ferramentas de segurança
-[+] Criar automações
-[+] Estudar CVEs
-[+] Melhorar conhecimento em redes
-[+] Construir um portfólio sólido em Cybersecurity
-```
+* [ ] Evoluir em Web Pentest
+* [ ] Aprofundar conhecimentos em Red Team
+* [ ] Desenvolver ferramentas próprias
+* [ ] Criar mais laboratórios de segurança
+* [ ] Participar de CTFs
+* [ ] Estudar vulnerabilidades modernas
+* [ ] Melhorar técnicas de análise e exploração
+* [ ] Contribuir com projetos Open Source
 
 ---
 
-# 📚 Filosofia
+# 📚 Atualmente estudando
 
-> "Conhecer como um sistema funciona é o primeiro passo para entender como protegê-lo."
-
-Acredito que a melhor forma de aprender segurança é **estudar, testar, documentar e compartilhar conhecimento de forma responsável**.
-
----
-
-# ⚠️ Ethical Security
-
-Todos os estudos, scripts, PoCs e experimentos publicados neste perfil possuem finalidade **educacional, acadêmica ou de pesquisa**.
-
-As técnicas apresentadas devem ser utilizadas somente em:
-
-- Sistemas próprios
-- Ambientes de laboratório
-- CTFs
-- Máquinas virtuais
-- Plataformas autorizadas
-- Programas de Bug Bounty dentro de seus respectivos escopos
-
-**Não incentivo acesso não autorizado, exploração de sistemas de terceiros ou qualquer atividade ilegal.**
+**Cybersecurity • Web Security • Pentest • Red Team • Linux • Python • OSINT • OWASP • Network Security**
 
 ---
 
 # 📫 Contato
 
-**GitHub:** [@itsismarcos](https://github.com/itsismarcos)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-itsismarcos-181717?style=for-the-badge\&logo=github)](https://github.com/itsismarcos)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🛡️ Cybersecurity • Pentest • Research • Automation
+### 🛡️ Security • Research • Learning • Building
 
-**Learning. Testing. Breaking. Securing.**
+**Marcos Roberto**
 
 </div>
