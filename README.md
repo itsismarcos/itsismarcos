@@ -27,29 +27,29 @@ Atualmente estudo e pratico segurança ofensiva em **ambientes controlados e aut
 
 ### Atualmente estudo:
 
-* 🔍 Testes de invasão
-* 🌐 Segurança de aplicações Web
-* 🧪 Análise de vulnerabilidades
-* 📚 CVEs e PoCs educacionais
-* 🐧 Linux
-* 🪟 Windows
-* 🌐 Redes e protocolos
-* 🤖 Automação de segurança
-* 🛡️ Hardening e mitigação
+- 🔍 Testes de invasão
+- 🌐 Segurança de aplicações Web
+- 🧪 Análise de vulnerabilidades
+- 📚 CVEs e PoCs educacionais
+- 🐧 Linux
+- 🪟 Windows
+- 🌐 Redes e protocolos
+- 🤖 Automação de segurança
+- 🛡️ Hardening e mitigação
 
 ---
 
 # 🔐 Áreas de Interesse
 
-| Área                      | Foco                                            |
-| ------------------------- | ----------------------------------------------- |
-| 🌐 Web Security           | OWASP, APIs, autenticação e autorização         |
-| 🔎 Reconhecimento         | Enumeração e descoberta de superfície de ataque |
-| 🧪 Vulnerability Research | Análise e reprodução de vulnerabilidades        |
-| 🐧 Linux                  | Administração, hardening e segurança            |
-| 🌐 Networking             | TCP/IP, DNS, HTTP, serviços e protocolos        |
-| 🤖 Automation             | Scripts para reconhecimento e análise           |
-| 🛡️ Defensive Security    | Hardening, mitigação e análise de riscos        |
+| Área | Foco |
+|---|---|
+| 🌐 Web Security | OWASP, APIs, autenticação e autorização |
+| 🔎 Reconhecimento | Enumeração e descoberta de superfície de ataque |
+| 🧪 Vulnerability Research | Análise e reprodução de vulnerabilidades |
+| 🐧 Linux | Administração, hardening e segurança |
+| 🌐 Networking | TCP/IP, DNS, HTTP, serviços e protocolos |
+| 🤖 Automation | Scripts para reconhecimento e análise |
+| 🛡️ Defensive Security | Hardening, mitigação e análise de riscos |
 
 ---
 
@@ -57,14 +57,14 @@ Atualmente estudo e pratico segurança ofensiva em **ambientes controlados e aut
 
 ### 🔎 Reconhecimento & Enumeração
 
-![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge\&logo=nmap\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-111111?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=for-the-badge)
 
 ### 🌐 Web Application Security
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
 ### 🧪 Exploração & Security Research
 
@@ -73,18 +73,18 @@ Atualmente estudo e pratico segurança ofensiva em **ambientes controlados e aut
 
 ### 💻 Sistemas
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 # 💻 Linguagens & Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -120,43 +120,43 @@ Sempre priorizando **ambientes autorizados, laboratórios e sistemas próprios**
 
 Scripts desenvolvidos para auxiliar em:
 
-* Reconhecimento
-* Enumeração
-* Automação
-* Análise de serviços
-* Processamento de resultados
-* Segurança de aplicações
+- Reconhecimento
+- Enumeração
+- Automação
+- Análise de serviços
+- Processamento de resultados
+- Segurança de aplicações
 
 ### 🧪 CVE Research
 
 Estudos sobre vulnerabilidades públicas com foco em:
 
-* Entendimento da vulnerabilidade
-* Análise técnica
-* Reprodução em laboratório
-* Desenvolvimento de PoCs educacionais
-* Mitigação
+- Entendimento da vulnerabilidade
+- Análise técnica
+- Reprodução em laboratório
+- Desenvolvimento de PoCs educacionais
+- Mitigação
 
 ### 🤖 Security Automation
 
 Automação de tarefas repetitivas utilizando:
 
-* Python
-* Bash
-* Linux
-* APIs
-* Ferramentas de segurança
+- Python
+- Bash
+- Linux
+- APIs
+- Ferramentas de segurança
 
 ### 🌐 Web Security Labs
 
 Laboratórios voltados para estudo de:
 
-* OWASP Top 10
-* Authentication
-* Authorization
-* Input Validation
-* Security Misconfiguration
-* API Security
+- OWASP Top 10
+- Authentication
+- Authorization
+- Input Validation
+- Security Misconfiguration
+- API Security
 
 ---
 
@@ -175,9 +175,9 @@ Focus     → Cybersecurity / Pentest
 
 # 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsismarcos\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsismarcos&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsismarcos&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -210,12 +210,12 @@ Todos os estudos, scripts, PoCs e experimentos publicados neste perfil possuem f
 
 As técnicas apresentadas devem ser utilizadas somente em:
 
-* Sistemas próprios
-* Ambientes de laboratório
-* CTFs
-* Máquinas virtuais
-* Plataformas autorizadas
-* Programas de Bug Bounty dentro de seus respectivos escopos
+- Sistemas próprios
+- Ambientes de laboratório
+- CTFs
+- Máquinas virtuais
+- Plataformas autorizadas
+- Programas de Bug Bounty dentro de seus respectivos escopos
 
 **Não incentivo acesso não autorizado, exploração de sistemas de terceiros ou qualquer atividade ilegal.**
 
